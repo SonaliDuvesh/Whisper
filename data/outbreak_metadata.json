@@ -1,0 +1,21 @@
+{
+  "outbreak_id": "OUTBREAK_2025_001",
+  "name": "Synthetic Spring Respiratory Transmission Wave",
+  "start_date": "2025-03-10",
+  "end_date": "2025-04-15",
+  "evaluation_window_start": "2025-03-05",
+  "evaluation_window_end": "2025-04-20",
+  "affected_regions": [
+    "Region 3",
+    "Region 4",
+    "Region 5"
+  ],
+  "epicenter": "Region 3",
+  "onset_order": {
+    "Region 3": 0,
+    "Region 4": 1,
+    "Region 5": 2
+  },
+  "description": "Synthetic multi-signal respiratory surge injected with asymmetric gamma-curve viral shedding and delayed clinical hospital reporting.",
+  "synthetic": true
+}
